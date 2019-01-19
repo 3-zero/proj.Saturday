@@ -16,11 +16,11 @@ $ git lfs install
 ```
 $ git lfs track "condition(ex:*.txt)"
 ```
-5. 
+5. Commit updated files
 ```
 $ git commit -m "Large file included"
 ```
-6. 
+6. Push
 ```
 $ git push
 ```
