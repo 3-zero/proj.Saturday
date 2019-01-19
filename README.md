@@ -1,6 +1,7 @@
 # proj.Saturday
 # Machine Learning Study
 
+# 2019.01.19
 ## < How to Upload files exeeding 100M >
 1. Stage a new file $ git add (filename)
 2. Download git-lfs (https://git-lfs.github.com/)
