@@ -2,7 +2,7 @@
 # Machine Learning Study
 
 ## 2019.01.19
-### < How to Upload files exeeding 100M >
+### < How to Upload(Download) files exeeding 100M >
 1. Stage a new file
 ```
 $ git add (filename)
@@ -20,9 +20,9 @@ $ git lfs track "condition(ex:*.txt)"
 ```
 $ git commit -m "Large file included"
 ```
-6. Push
+6. Push(pull)
 ```
-$ git push
+$ git push(pull)
 ```
 
 ### < How to Use BFG Repo Cleaner >
