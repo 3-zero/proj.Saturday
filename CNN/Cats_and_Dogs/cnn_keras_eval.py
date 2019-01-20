@@ -185,4 +185,4 @@ model.fit(X_train, Y_train, batch_size=32, nb_epoch=10, verbose=1)
 
 # 10. Evaluate model on test data
 score = model.evaluate(X_test, Y_test, verbose=0)
-print(score)
+print(score) # [0]:loss, [1]:accuracy
